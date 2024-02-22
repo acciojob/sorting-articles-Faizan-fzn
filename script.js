@@ -3,7 +3,7 @@ const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'N
 
 // Function to remove "a", "an", "the" from a band name
 function strip(bandName) {
-  return bandName.replace(/^(a |the |an )/i, '').trim();
+  return bandsName.replace(/^(a |the |an )/i, '').trim();
 }
 
 // Sort the bands
