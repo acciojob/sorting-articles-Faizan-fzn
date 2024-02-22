@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#page>img{
+	width: 95vw;
+	height: 90vh
+}
+#list{
+	width: 45vw;
+	background-color: white;
+	position: absolute;
+	top: 1%; 
+    left: 24%;
+
+}
+#band > li{
+	margin-top: 25px;
+}
