@@ -11,6 +11,7 @@
     left: 24%;
 
 }
-#band > li{
+#bands > li{
 	margin-top: 25px;
+	list-style: square;
 }
